@@ -53,10 +53,13 @@
 
 
 ## Output:
+![image](https://github.com/varshasharon/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/98278161/fa01a2a8-4c5c-4a14-8879-9c68d29f9773)
+![image](https://github.com/varshasharon/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/98278161/59ea0f3e-045b-420a-9305-905b11511952)
+![image](https://github.com/varshasharon/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/98278161/695a93b8-c828-4a24-9ef9-966c7692e65e)
 
 
-### Name:
-### Register Number: 
+### Name: E. VARSHA SHARON
+### Register Number: 212222100058
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
